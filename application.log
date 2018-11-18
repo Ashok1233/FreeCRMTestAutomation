@@ -1,0 +1,36 @@
+2018-11-15 18:07:46,935  INFO [main] LoginPageTest:25 - chrome browser is launching
+2018-11-15 18:07:58,832  INFO [main] LoginPageTest:27 - application is launched
+2018-11-15 18:07:58,833  INFO [main] LoginPageTest:28 - loginpage is initialized
+2018-11-15 18:07:58,890  INFO [main] LoginPageTest:35 - testing loginPageTitle
+2018-11-15 18:07:58,926  INFO [main] LoginPageTest:37 - comparing the loginpageTitle
+2018-11-15 18:07:58,944  INFO [main] LoginPageTest:56 - closing the browser
+2018-11-15 18:07:59,844  INFO [main] LoginPageTest:25 - chrome browser is launching
+2018-11-15 18:08:09,708  INFO [main] LoginPageTest:27 - application is launched
+2018-11-15 18:08:09,710  INFO [main] LoginPageTest:28 - loginpage is initialized
+2018-11-15 18:08:09,873  INFO [main] LoginPageTest:56 - closing the browser
+2018-11-15 18:08:10,735  INFO [main] LoginPageTest:25 - chrome browser is launching
+2018-11-15 18:08:20,145  INFO [main] LoginPageTest:27 - application is launched
+2018-11-15 18:08:20,146  INFO [main] LoginPageTest:28 - loginpage is initialized
+2018-11-15 18:08:28,557  INFO [main] LoginPageTest:56 - closing the browser
+2018-11-15 18:11:35,792  INFO [main] LoginPageTest:25 - chrome browser is launching
+2018-11-15 18:11:46,921  INFO [main] LoginPageTest:27 - application is launched
+2018-11-15 18:11:46,922  INFO [main] LoginPageTest:28 - loginpage is initialized
+2018-11-15 18:11:46,974  INFO [main] LoginPageTest:35 - testing loginPageTitle
+2018-11-15 18:11:46,999  INFO [main] LoginPageTest:37 - comparing the loginpageTitle
+2018-11-15 18:11:47,007  INFO [main] LoginPageTest:56 - closing the browser
+2018-11-16 10:42:26,454  INFO [main] LoginPageTest:25 - chrome browser is launching
+2018-11-16 10:42:48,439  INFO [main] LoginPageTest:27 - application is launched
+2018-11-16 10:42:48,440  INFO [main] LoginPageTest:28 - loginpage is initialized
+2018-11-16 10:42:48,645  INFO [main] LoginPageTest:35 - testing loginPageTitle
+2018-11-16 10:42:48,659  INFO [main] LoginPageTest:37 - comparing the loginpageTitle
+2018-11-16 10:42:48,667  INFO [main] LoginPageTest:56 - closing the browser
+2018-11-16 11:03:47,868 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-11-16 11:03:47,873 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-11-16 11:03:47,888 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-11-16 11:03:47,890 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-11-16 11:03:47,891 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/SRI/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-11-16 11:03:48,344 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-11-16 11:03:48,345 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-11-16 11:03:48,345 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-11-16 11:03:48,346 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-11-16 11:03:48,346 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/SRI/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
